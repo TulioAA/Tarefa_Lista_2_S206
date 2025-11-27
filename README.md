@@ -1,12 +1,12 @@
 # Testes de API com Postman – JSONPlaceholder
 
-## 📌 API utilizada
+## API utilizada
 JSONPlaceholder (https://jsonplaceholder.typicode.com)
 
-## 📂 Estrutura
+## Estrutura
 - `tests/collection.json` → coleção Postman com 6 cenários de teste
 
-## ▶️ Como executar
+## Como executar
 1. Importar a coleção no Postman
 2. Rodar manualmente ou usar o Collection Runner
 3. Para regressão, instalar [Newman](https://www.npmjs.com/package/newman):
@@ -14,7 +14,7 @@ JSONPlaceholder (https://jsonplaceholder.typicode.com)
    newman run tests/collection.json
 ---
 
-## 📋 Respostas do Exercício 2
+## Respostas do Exercício 2
 
 1. **Quantas suítes de testes você desenvolveu?**  
    - 1 suíte (coleção Postman com 6 casos).
